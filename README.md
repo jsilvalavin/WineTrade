@@ -1,0 +1,1 @@
+To process the data, run data transform to eliminate useless data and apply trasformations , then data assembly to unify the data across years, and data reducer to reduce the size (by only keeping the data by year).
